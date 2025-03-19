@@ -1,0 +1,6 @@
+.git
+.gitignore
+CHANGELOG
+Dockerfile
+Makefile
+README.md
