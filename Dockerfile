@@ -1,4 +1,4 @@
-FROM golang:1.21 as builder
+FROM golang:1.24 as builder
 
 ARG version="no_version"
 ARG buildtime="12345"
